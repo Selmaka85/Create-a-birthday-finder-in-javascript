@@ -1,0 +1,20 @@
+  form{
+           margin-top:30px;
+       }
+       body{
+           background:linear-gradient(gray,white,gray);
+           background-attachment: fixed;
+       }
+       #button{
+           width:300px;
+       }
+       input{
+           width:300px;
+       }
+       #year{
+           background-color:black;
+           color:white;
+           width:300px;
+           height: 25p;
+           border-radius: 10px;
+       }
